@@ -34,6 +34,11 @@ categories:
   - category: 新添加
     icon: linecons-star
     links:
+      - title: Velpro's Blog
+        logo: https://liangye-xo.xyz/wp-content/uploads/2022/04/WechatIMG53-300x300.jpeg
+        url: https://liangye-xo.xyz/
+        description: Just a CS Programmer
+        tags: 博客,社交,生活,分享
       - title: BestXTools 社区
         logo: https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png
         url: https://discuss-cn.bestxtools.com/
@@ -47,10 +52,6 @@ categories:
         logo: https://dajiayouxuan.com/wp-content/uploads/2021/08/logo.jpg
         url: https://dajiayouxuan.com/
         description: 万物之中希望最美，万物之中确定性最贵
-      - title: Dennis - 技术 个人成长
-        logo: https://www.domon.cn/content/images/2021/03/xavatar_shiba.jpg.pagespeed.ic.ifanPcEFIW.webp
-        url: https://www.domon.cn/
-        description: 生活无法易如反掌，但可以细水长流。和我一同共同成长，成为想象中的人。
 
   - category: 推荐
     hide_menu: true
@@ -88,11 +89,11 @@ categories:
         logo: https://images.weserv.nl/?url=http://shanks.link/img/favicon.ico&w=60&h=60
         url: http://shanks.link/
         description: "主要的内容: Golang, lua, os, redis"
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
-        url: https://jukebox.pipecraft.net/d/5
-        description: 快来交换友情链接吧
-        tags: 程序员,生活,创意
+      - title: Velpro's Blog
+        logo: https://liangye-xo.xyz/wp-content/uploads/2022/04/WechatIMG53-300x300.jpeg
+        url: https://liangye-xo.xyz/
+        description: Just a CS Programmer
+        tags: 博客,社交,生活,分享
       - title: 等你来加➕
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
         url: https://jukebox.pipecraft.net/d/5
@@ -102,7 +103,7 @@ categories:
     icon: linecons-doc
     links:
       - title: viggo
-        logo: https://images.weserv.nl/?url=work.viggoz.com/images/favicon.png&w=60&h=60
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">V</text></svg>
         url: http://blog.viggoz.com/
         description: Webstack 的设计师
       - title: 等你来加➕
@@ -147,10 +148,6 @@ categories:
         url: https://discuss-cn.bestxtools.com/
         description: BestXTools 社区是一个发现并分享有趣，有创意，免费、好用的工具的非商业性质的，独立的，开放的社区。
         tags: 在线工具,周刊,社区
-      - title: 独立开发者社区
-        logo: https://indiehackers-1251406926.cos.ap-chengdu.myqcloud.com/hackers/7cl3u.png
-        url: https://w2solo.com/
-        description: 「w2solo.com」独立开发者社区，由众多独立开发者维护，致力于搭建和维护好国内独立开发者圈子和氛围。
       - title: Pipecraft 社区
         logo: https://discuss.cn.pipecraft.net/assets/favicon-jtrdedht.png
         url: https://discuss.cn.pipecraft.net/
